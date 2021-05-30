@@ -1,6 +1,8 @@
-# test-repository
+# Website 1
 
-this is a test repository which I've made to learn about Github.
-I will be making changes to this repository in the future.
+### This is a dummy website that I've made to learn for about **web hosting** and coding in general.
+### Curently, this website contains details about myself and I'll be making more changes to it in future.
+
+
 
  
